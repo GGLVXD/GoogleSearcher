@@ -1,5 +1,5 @@
 {
-  "name": "googlesearcher",
+  "name": "@gglvxd/googlesearcher",
   "version": "1.0.0",
   "description": "Simple google searcher without needing to pay for api",
   "main": "index.js",
