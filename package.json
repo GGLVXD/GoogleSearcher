@@ -1,0 +1,29 @@
+{
+  "name": "googlesearcher",
+  "version": "1.0.0",
+  "description": "Simple google searcher without needing to pay for api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGLVXD/GoogleSearcher.git"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "api",
+    "googlesearch",
+    "googleapifree"
+  ],
+  "author": "GGLVXD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGLVXD/GoogleSearcher/issues"
+  },
+  "homepage": "https://github.com/GGLVXD/GoogleSearcher#readme",
+  "dependencies": {
+    "axios": "^1.7.8"
+  }
+}
